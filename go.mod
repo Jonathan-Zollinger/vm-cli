@@ -1,4 +1,4 @@
-module github.com/Jonathan-Zollinger/workstation-cli
+module github.com/Jonathan-Zollinger/vm-cli
 
 go 1.20
 
