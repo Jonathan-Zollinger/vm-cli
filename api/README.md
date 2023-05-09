@@ -1,4 +1,4 @@
-# Go API client for swagger
+# API documentation for vmware workstation pro 17 
 
 vmrest 1.3.0 build-21139696
 
