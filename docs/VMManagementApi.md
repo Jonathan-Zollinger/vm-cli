@@ -40,7 +40,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **CreateVM**
 > VmInformation CreateVM(ctx, params)
@@ -66,7 +66,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **DeleteVM**
 > DeleteVM(ctx, id)
@@ -92,7 +92,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **GetAllVMs**
 > []Vmid GetAllVMs(ctx, )
@@ -114,7 +114,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **GetVM**
 > VmInformation GetVM(ctx, id)
@@ -140,7 +140,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **GetVMParams**
 > ConfigVmParamsParameter GetVMParams(ctx, id, name)
@@ -167,7 +167,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **GetVMRestrictions**
 > VmRestrictionsInformation GetVMRestrictions(ctx, id)
@@ -193,7 +193,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **RegisterVM**
 > VmRrgistrationInformation RegisterVM(ctx, parameters)
@@ -219,7 +219,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **UpdateVM**
 > VmInformation UpdateVM(ctx, id, parameters)
@@ -246,5 +246,5 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 

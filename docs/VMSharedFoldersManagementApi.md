@@ -35,7 +35,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **DeleteSharedFolder**
 > DeleteSharedFolder(ctx, id, folderId)
@@ -62,7 +62,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **GetAllSharedFolders**
 > SharedFolders GetAllSharedFolders(ctx, id)
@@ -88,7 +88,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **UpdataSharedFolder**
 > SharedFolders UpdataSharedFolder(ctx, id, folderId, parameters)
@@ -116,5 +116,5 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 

@@ -37,7 +37,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **DeleteNICDevice**
 > DeleteNICDevice(ctx, id, index)
@@ -64,7 +64,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **GetAllNICDevices**
 > NicDevices GetAllNICDevices(ctx, id)
@@ -90,7 +90,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **GetIPAddress**
 > InlineResponse200 GetIPAddress(ctx, id)
@@ -116,7 +116,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **GetNicInfo**
 > NicIpStackAll GetNicInfo(ctx, id)
@@ -142,7 +142,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **UpdateNICDevice**
 > NicDevice UpdateNICDevice(ctx, id, index, parameters)
@@ -170,5 +170,5 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
