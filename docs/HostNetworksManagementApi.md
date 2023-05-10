@@ -37,7 +37,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **DeletePortforward**
 > DeletePortforward(ctx, vmnet, protocol, port)
@@ -65,7 +65,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **GetAllNetworks**
 > Networks GetAllNetworks(ctx, )
@@ -87,7 +87,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **GetMACToIPs**
 > MactoIps GetMACToIPs(ctx, vmnet)
@@ -113,7 +113,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **GetPortforwards**
 > Portforwards GetPortforwards(ctx, vmnet)
@@ -139,7 +139,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **UpdateMacToIP**
 > ErrorModel UpdateMacToIP(ctx, vmnet, mac, parameters)
@@ -167,7 +167,7 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 
 # **UpdatePortforward**
 > ErrorModel UpdatePortforward(ctx, vmnet, protocol, port, parameters)
@@ -196,5 +196,5 @@ No authorization required
  - **Content-Type**: application/vnd.vmware.vmw.rest-v1+json
  - **Accept**: application/vnd.vmware.vmw.rest-v1+json
 
-[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+[[Back to top]](#) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to Model list]](README.md#documentation-for-models) [[Back to README]](README.md)
 

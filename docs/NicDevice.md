@@ -8,6 +8,6 @@ Name | Type | Description | Notes
 **Vmnet** | **string** | The vmnet name | [default to null]
 **MacAddress** | **string** | Mac address | [default to null]
 
-[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+[[Back to Model list]](README.md#documentation-for-models) [[Back to API list]](README.md#documentation-for-api-endpoints) [[Back to README]](README.md)
 
 
