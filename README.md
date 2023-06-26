@@ -1,3 +1,7 @@
+# The state of this project is very much a work in progress. 
+
+This is more of a fun thing I want to see if I can do. More information on how to install, use, contribute, etc. is to come. 
+
 # Go API client for swagger
 
 vmrest 1.3.0 build-21139696
